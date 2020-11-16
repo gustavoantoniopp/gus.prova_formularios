@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue';
+}
+.content{
+    display: flex;
+}
+.page{
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(../../assets/images/baleia.jpg);
+    background-size: cover;
+}
+.page h1{
+    background-color: #F17300;
+    opacity: 75%;
+    font-size: 30px;
+}

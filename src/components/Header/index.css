@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background: #6BAB90;
+    font-size: 20px;
+    font-family:'Comic Sans MS', 'Chalkboard SE', 'Comic Neue';
+}
+.logo img{
+    width: 55px;
+    margin: 5px;
+}
+.opts{
+    display: flex;
+    list-style: none;
+    color: white;
+    padding-right: 30px;
+}
+.opts li{
+    padding-left: 13px;
+}

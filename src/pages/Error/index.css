@@ -1,0 +1,18 @@
+.error{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+.not{
+    text-align: center;
+}
+.not h1{
+    font-size: 70px;
+}
+.not p{
+    font-size: 40px;
+}
+.not img{
+    width: 300px;
+}
